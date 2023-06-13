@@ -20,4 +20,4 @@
 | пользователей         | не вызовут ли новые шрифты негативных изменений в   | datetime, math, plotly  |
 | пользователей         | не вызовут ли новые шрифты негативных изменений в   | datetime, math, plotly  |
 | пользователей         | не вызовут ли новые шрифты негативных изменений в   | datetime, math, plotly  |
-[Изучение поведения пользователей мобильного приложения](адрес:github.com/catyacapustina/my_projects/tree/main/behavior_of_mobile_app_users "Заголовок ссылки")
+[Изучение поведения пользователей мобильного приложения](адрес:[github.com/catyacapustina/my_projects/tree/main/behavior_of_mobile_app_users](https://github.com/catyacapustina/my_projects/tree/main/behavior_of_mobile_app_users))
