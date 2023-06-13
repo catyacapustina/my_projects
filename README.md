@@ -10,5 +10,5 @@
 | мобильного приложения | поведении пользователей                             |                         |
 | мобильного приложения | поведении пользователей                             |                         |
 
-[[Изучение поведения пользователей мобильного приложения](https://github.com/catyacapustina/my_projects/tree/main/behavior_of_mobile_app_users)]
+[Изучение поведения пользователей мобильного приложения](https://github.com/catyacapustina/my_projects/tree/main/behavior_of_mobile_app_users)
 
