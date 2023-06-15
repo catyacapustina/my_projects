@@ -10,7 +10,7 @@
 | [Проверка гипотез для увеличения выручки интернет-магазина](https://github.com/catyacapustina/my_projects/tree/main/hypotheses_for_increasing_revenue) | Принять решение по способу увеличения выручки интернет-магазина | pandas, numpy, seaborn, datetime, matplotlib, scipy | 
 | [Исследование надежности заемщиков](https://github.com/catyacapustina/my_projects/tree/main/reliability_of_borrowers) | Проверить влияет ли семейное положение и количество детей клиента на факт погашения кредита в срок | pandas, seaborn, matplotlib |  
 | [Исследование объявлений о продаже квартир](https://github.com/catyacapustina/my_projects/tree/main/sale_of_apartments) | Найти интересные особенности и зависимости, которые существуют на рынке недвижимости | pandas, matplotlib | 
-| ([Исследование причин убытков развлекательного приложения Procrastinate Pro+](https://github.com/catyacapustina/my_projects/tree/main/causes_of_application_losses)) | Найти причины убытков развлекательного приложения Procrastinate Pro+. | pandas, numpy, seaborn, pyplot, datetime | 
+| [Исследование причин убытков развлекательного приложения Procrastinate Pro+](https://github.com/catyacapustina/my_projects/tree/main/causes_of_application_losses) | Найти причины убытков развлекательного приложения Procrastinate Pro+. | pandas, numpy, seaborn, pyplot, datetime | 
 
 
 
