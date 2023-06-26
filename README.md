@@ -11,7 +11,7 @@
 | [Исследование надежности заемщиков](https://github.com/catyacapustina/my_projects/tree/main/reliability_of_borrowers) | Проверить влияет ли семейное положение и количество детей клиента на факт погашения кредита в срок | pandas, seaborn, matplotlib |  
 | [Исследование объявлений о продаже квартир](https://github.com/catyacapustina/my_projects/tree/main/sale_of_apartments) | Найти интересные особенности и зависимости, которые существуют на рынке недвижимости | pandas, matplotlib | 
 | [Исследование причин убытков развлекательного приложения Procrastinate Pro+](https://github.com/catyacapustina/my_projects/tree/main/causes_of_application_losses) | Найти причины убытков развлекательного приложения Procrastinate Pro+. | pandas, numpy, seaborn, pyplot, datetime |   
-| [Анализ взаимодействия пользователей с карточками Дзена](https://github.com/catyacapustina/my_projects/tree/main/zen_cards_tableau) | Помочь в принятии решений менеджерам по анализу контента и экономии рабочего времени аналитика данных по решению еженедельно повторяющихся задач. | pandas, sqlalchemy, SQL, Tableau, MS Power Point |   
+| [Анализ взаимодействия пользователей с карточками Дзена](https://github.com/catyacapustina/my_projects/tree/main/zen_cards_tableau) | Помочь в принятии решений менеджерам по анализу контента и экономии рабочего времени аналитика данных по решению еженедельно повторяющихся задач. | pandas, sqlalchemy, инструменты (SQL, Tableau, MS Power Point) |   
 
 
 
