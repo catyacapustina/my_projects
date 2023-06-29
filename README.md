@@ -17,6 +17,6 @@
 
 | Название проекта      | Описание                                            | Используемые библиотеки |
 | :-------------------- | :-------------------------------------------------- | :--------------------   |
-| [Активность пользователей в обучающем игровом приложении](https://github.com/catyacapustina/my_projects/tree/main/user_activity_test)) | Решить тестовое задание на продуктового аналитика. | pandas, numpy, seaborn, datetime, plotly, matplotlib, datetime |  
+| [Активность пользователей в обучающем игровом приложении](https://github.com/catyacapustina/my_projects/tree/main/user_activity_test) | Решить тестовое задание на продуктового аналитика. | pandas, numpy, seaborn, datetime, plotly, matplotlib, datetime |  
 
 
