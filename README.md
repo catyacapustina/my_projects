@@ -12,6 +12,7 @@
 | [Исследование объявлений о продаже квартир](https://github.com/catyacapustina/my_projects/tree/main/sale_of_apartments) | Найти интересные особенности и зависимости, которые существуют на рынке недвижимости | pandas, matplotlib | 
 | [Исследование причин убытков развлекательного приложения Procrastinate Pro+](https://github.com/catyacapustina/my_projects/tree/main/causes_of_application_losses) | Найти причины убытков развлекательного приложения Procrastinate Pro+. | pandas, numpy, seaborn, pyplot, datetime |   
 | [Анализ взаимодействия пользователей с карточками Дзена](https://github.com/catyacapustina/my_projects/tree/main/zen_cards_tableau) | Помочь в принятии решений менеджерам по анализу контента и экономии рабочего времени аналитика данных по решению еженедельно повторяющихся задач. | pandas, sqlalchemy, инструменты (SQL, Tableau, MS Power Point) |   
+| [Выделение групп пользователей на основе поведения в мобильном приложении](https://github.com/catyacapustina/my_projects/tree/main/groups_behavior_of_mobile_app_users) | Выделить группы пользователей на основе их поведения. | pandas, numpy, seaborn, datetime, timedelta, math, plotly, pyplot, инструменты (Python, Tableau, MS Power Point) | 
 
 Дополнительные проекты
 
