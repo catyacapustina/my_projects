@@ -28,7 +28,7 @@
 Данные для проведения исследования я возьму из файлов — levels.csv, payments.csv, sessions.csv, users.csv.
 
 **Используемые библиотеки**  
-pandas, numpy, seaborn, datetime, plotly, matplotlib, datetime
+pandas, numpy, seaborn, datetime, plotly, matplotlib
 
 
 **Общий вывод**  
