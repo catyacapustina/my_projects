@@ -20,6 +20,6 @@
 
 | Название проекта      | Описание                                            | Используемые библиотеки |
 | :-------------------- | :-------------------------------------------------- | :--------------------   |
-| [Активность пользователей в обучающем игровом приложении](https://github.com/catyacapustina/my_projects/tree/main/user_activity_test) | Помочь в принятии решений менеджерам по анализу контента и экономия рабочего времени аналитика данных по решению еженедельно повторяющихся задач. | pandas, numpy, seaborn, datetime, plotly, matplotlib, datetime |  
+| [Активность пользователей в обучающем игровом приложении](https://github.com/catyacapustina/my_projects/tree/main/user_activity_test) | Составление портрета пользователей приложения | pandas, numpy, seaborn, datetime, plotly, matplotlib, datetime |  
 
 
